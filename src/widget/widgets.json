@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Kategoriler",
+    "name": "categories",
+    "seeAll": false
+  },
+  {
+    "id": 2,
+    "name": "introduction",
+    "title": "Tanıtım",
+    "seeAll": false
+  },
+  {
+    "id": 3,
+    "name": "flashSale",
+    "title": "Flaş Ürünler",
+    "seeAll": true
+  },
+  {
+    "id": 4,
+    "title": "En Çok Satanlar",
+    "name": "bestSeller",
+    "seeAll": true
+  },
+  {
+    "id": 5,
+    "title": "Sİze Özel Markalar",
+    "name": "specialBrands",
+    "seeAll": false
+  },
+  {
+    "id": 6,
+    "title": "Sana Özel",
+    "name": "forYou",
+    "seeAll": true
+  }
+]
